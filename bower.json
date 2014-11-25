@@ -20,9 +20,9 @@
   "license": "MIT",
   "homepage": "https://github.com/zonito/z-toggleicon/",
   "ignore": [
-    "**/.*",
+    "**/.*"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#master",
+    "polymer": "Polymer/polymer#master"
   }
 }
