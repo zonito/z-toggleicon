@@ -23,6 +23,6 @@
     "**/.*"
   ],
   "dependencies": {
-    "polymer": "Polymer/polymer#master"
+    "icon-transition": "PolymerLabs/icon-transition#master"
   }
 }
